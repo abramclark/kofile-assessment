@@ -11,9 +11,9 @@ node part2.js
 ## Part 3:
 ```shell
 node part3.js
-wget --post-file orders.json /prices
+wget --post-file orders.json http://localhost:1212/prices
 cat prices
-wget --post-file orders.json /funds
+wget --post-file orders.json http://localhost:1212/funds
 cat funds
 ```
 
