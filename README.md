@@ -1,17 +1,21 @@
-## Skill assessment for Kofile
+# Skill assessment for Kofile
 
-Part 1:
+## Part 1:
+```shell
 node part1.js
-
-Part 2:
+```
+## Part 2:
+```shell
 node part2.js
-
-Part 3:
+```
+## Part 3:
+```shell
 node part3.js
 wget --post-file orders.json /prices
 wget --post-file orders.json /funds
 cat prices
 cat funds
+```
 
 Both endpoints echo the JSON orders given as input with fee info
 added. The prices endpoint adds a total attribute on each order and a
