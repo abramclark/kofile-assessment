@@ -1,5 +1,7 @@
 # Skill assessment for Kofile
 
+[Task described here](challenge.md)
+
 ## Part 1:
 ```shell
 node part1.js
